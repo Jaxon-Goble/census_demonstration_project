@@ -1,4 +1,4 @@
-Hi, thanks for checking this quick census data visualizaion project out!<br><br> 
+Hi, thanks for checking this quick census data visualization project out!<br><br> 
 
 This project is intended as a way to demonstrate my experience with some of the key skills mentioned on the job posting (Python, Tableau, the Census Bureau website). It included a brief data search on the Census Bureau's <a href="https://data.census.gov/map/040XX00US49,49$8600000?t=Income+and+Poverty&layer=VT_2023_860_Z2_PY_D1&loc=39.5448,-112.7272,z6.0000">website<a>, some data cleaning and preprocessing using python and a Jupyter Notebook, and the creation of a Tableau <a href="https://public.tableau.com/views/CensusDataDemonstration/Dashboard-UtahFamilyCountEstimatebyZipCodeYear?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">dashboard<a>. In addition, I included screenshots for documentation of my process. <br><br>
 
